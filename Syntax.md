@@ -27,12 +27,12 @@ BOOL gui
 - Not required to run
 - Allows use of GUI functions
 
-BOOL guiconsole
-- Not required to run
+BOOL guiconsole.
+- Not required to run.
 - Shows a console even when making a GUI project for easy debugging
 
-BOOL customargs
-- Not required to run
+BOOL customargs.
+- Not required to run.
 - allows users to pass custom arguments to the program
 
 -------------- DataTypes --------------
