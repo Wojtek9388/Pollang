@@ -27,24 +27,24 @@ BOOL gui
 - Not required to run
 - Allows use of GUI functions
 
-BOOL guiconsole.
-- Not required to run.
+BOOL guiconsole
+- Not required to run
 - Shows a console even when making a GUI project for easy debugging
 
-BOOL customargs.
-- Not required to run.
+BOOL customargs
+- Not required to run
 - allows users to pass custom arguments to the program
 
 -------------- DataTypes --------------
 
-int         1
-bool        true false
-string      ""
-vector      ()
-- A vector NEEDS to have a data type so you cant have a two different types in the same vector
-- Example: vector<DATATYPE> NAME
-dictionary  []
-block scope {}
+int         1.
+bool        true false.
+string      "".
+vector      ().
+- A vector NEEDS to have a data type so you cant have a two different types in the same vector.
+- Example: vector<DATATYPE> NAME.
+dictionary  [].
+block scope {}.
 
 ------------ Misc Features ------------
 
