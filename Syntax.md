@@ -11,6 +11,12 @@ it was made mostly for fun
 
 Wojtek
 
+Ruby
+- Helped with Syntax Highlighting
+  
+Bored
+- Helped Me Find Resources for Markdown Files
+
 # File Stuffs
 
 Main Filetype
