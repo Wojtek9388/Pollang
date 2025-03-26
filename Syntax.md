@@ -8,11 +8,13 @@ can be run through interpreters or compiled
 it was made mostly for fun
 
 --------------- Credits ---------------
+
 Wojtek
 
 ---------------------------------------
 
 ------------- File Stuffs -------------
+
 Main Filetype
 - .plm
 
@@ -20,6 +22,7 @@ Header Filetype
 - .plh
 
 ---------- Runtime Arguments ----------
+
 BOOL gui
 - Not required to run
 - Allows use of GUI functions
@@ -33,6 +36,7 @@ BOOL customargs
 - allows users to pass custom arguments to the program
 
 -------------- DataTypes --------------
+
 int         1
 bool        true false
 string      ""
@@ -43,11 +47,13 @@ dictionary  []
 block scope {}
 
 ------------ Misc Features ------------
+
 //  comment
 ;   endline
 Null
 
 -------------- Functions --------------
+
 #include "FILENAME"
 
 #define ()
