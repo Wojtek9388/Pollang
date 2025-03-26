@@ -19,4 +19,4 @@ Bored
 
 # Syntax Stuff
 
-[Syntax Help](../Syntax.md)
+[Syntax Help](../master/Syntax.md)
