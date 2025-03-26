@@ -1,9 +1,9 @@
 # Pollang
 A weird language
 
-Capitals dont matter
+Case Insensitive
 
-can be run through interpreters or compiled
+Its a compiled and Interpreted Language
 
 it was made mostly for fun
 
