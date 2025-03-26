@@ -16,3 +16,7 @@ Ruby
   
 Bored
 - Helped Me Find Resources for Markdown Files
+
+# Syntax Stuff
+
+[Syntax Help](../blob/master/Syntax.md)
