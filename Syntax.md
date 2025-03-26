@@ -7,13 +7,11 @@ can be run through interpreters or compiled
 
 it was made mostly for fun
 
---------------- Credits ---------------
+# Credits
 
 Wojtek
 
----------------------------------------
-
-------------- File Stuffs -------------
+# File Stuffs
 
 Main Filetype
 - .plm
@@ -21,7 +19,7 @@ Main Filetype
 Header Filetype
 - .plh
 
----------- Runtime Arguments ----------
+# Runtime Arguments
 
 BOOL gui
 - Not required to run
@@ -35,7 +33,7 @@ BOOL customargs
 - Not required to run
 - allows users to pass custom arguments to the program
 
--------------- DataTypes --------------
+# DataTypes
 
 int         1
 bool        true false
@@ -46,13 +44,13 @@ vector      ()
 dictionary  []
 block scope {}
 
------------- Misc Features ------------
+# Misc Features
 
 //  comment
 ;   endline
 Null
 
--------------- Functions --------------
+# Functions
 
 #include "FILENAME"
 
@@ -88,7 +86,7 @@ http(INT METHOD)
 
 // gui functions will be added soon
 
------------- Func Examples ------------
+# Func Examples
 
 ANY main(RUNTIME ARGS)
 {
