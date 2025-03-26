@@ -37,14 +37,14 @@ BOOL customargs
 
 -------------- DataTypes --------------
 
-int         1.
-bool        true false.
-string      "".
-vector      ().
-- A vector NEEDS to have a data type so you cant have a two different types in the same vector.
-- Example: vector<DATATYPE> NAME.
-dictionary  [].
-block scope {}.
+int         1
+bool        true false
+string      ""
+vector      ()
+- A vector NEEDS to have a data type so you cant have a two different types in the same vector
+- Example: vector<DATATYPE> NAME
+dictionary  []
+block scope {}
 
 ------------ Misc Features ------------
 
