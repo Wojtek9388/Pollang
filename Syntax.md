@@ -1,4 +1,4 @@
---------------- PolLang ---------------
+# Pollang
 A weird language
 
 Capitals dont matter
