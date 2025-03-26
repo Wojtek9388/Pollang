@@ -106,33 +106,38 @@ http(INT METHOD)
 // gui functions will be added soon
 
 # Func Examples
-
-ANY main(RUNTIME ARGS)
 {
-    int Number;
-    Number = 0;
 
-    string Letters = "Hello, World!";
-
-    return FUNCTIONTYPE;
-}
-
-class Example()
-{
-    func Hello(int Count)
+    ANY main(RUNTIME ARGS)
     {
-        for (i in range(0, Count))
-        {
-            print("Hello, World!");
-        }
-        return 0;
+        int Number;
+        Number = 0;
+
+        string Letters = "Hello, World!";
+
+        return FUNCTIONTYPE;
     }
 
-    int A = 1325;
+    class Example()
+
+    {
+        func Hello(int Count)
+        {
+            for (i in range(0, Count))
+            {
+                print("Hello, World!");
+            }
+
+            return 0;
+        }
+
+        int A = 1325;
+    }
+
+    // to get functions you do
+    Example.Hello(7);
+
+    // you can do the same with variables
+    print(Example.A);
+
 }
-
-// to get functions you do
-Example.Hello(7);\
-
-// you can do the same with variables
-print(Example.A);
