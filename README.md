@@ -1,0 +1,2 @@
+# Pollang
+Funny Stuipid Language
